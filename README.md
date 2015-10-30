@@ -1,2 +1,2 @@
 # xervit.github.io
-Helping you learn more about Information Technology with help, tips, advice and techniques.
+Sharing my thoughts on IT with others.
